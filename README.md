@@ -5,6 +5,5 @@
 
 - 🌱 I’m beginning at programming using Java.
 - 👑 Actually learning with Alura.
-- 😄 Pronouns: Ele/Dele.
 - 📫 How to reach me: LinkedIN / EMAIL.
  
