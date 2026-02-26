@@ -7,7 +7,7 @@
  
 - 📍  Brazilian
 - 💬 Intermediate/Advanced English
-- 🌱 I’m beginning at programming using Java.
+- 🌱 I'm a beginner Java user.
 - 👑 Actually learning with Alura.
 - 📫 How to reach me: LinkedIN / EMAIL.
  
