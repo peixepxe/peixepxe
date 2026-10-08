@@ -6,7 +6,7 @@
 
 <br>
 </div>
-<p align="center">About Me 💫</p>
+<h1 align="center">About Me 💫</h1>
 
 - 📍 Brazilian
 - 💬 Intermediate/Advanced English
