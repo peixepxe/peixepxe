@@ -54,7 +54,7 @@ I'm currently pursuing a Bachelor's degree in Software Engineering, actively wor
   <a href="https://www.linkedin.com/in/lucas-juliano-7b2ab134a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="lucasjulianodealmeida@gmail.com" target="_blank">
+  <a href="mailto:lucasjulianodealmeida@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
