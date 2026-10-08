@@ -61,13 +61,8 @@ I'm currently pursuing a Bachelor's degree in Software Engineering, actively wor
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/peixepxe/peixepxe/snake-output/snake.svg" alt="Snake animation" />
-
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=peixepxe.peixepxe&"  />
-</div>
 
 ###
 
