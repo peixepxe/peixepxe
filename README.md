@@ -5,8 +5,8 @@
 
  I'm currently pursuing a Bachelor's degree in Software Engineering, actively working on improving my programming skills, and exploring various areas of the IT industry.
  
-- 📍  Brazilian
-- 💬 Intermediate/Advanced English
+- 📍  Brazilian.
+- 💬 Intermediate/Advanced English.
 - 🌱 I'm a beginner Java user.
 - 👑 Actually learning with Alura.
 - 📫 How to reach me: LinkedIN / EMAIL.
