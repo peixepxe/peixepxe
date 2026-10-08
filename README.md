@@ -6,6 +6,14 @@
 
 <br>
 
+<p align="center">About Me 💫</p>
+
+- 📍 Brazilian
+- 💬 Intermediate/Advanced English
+- 🌱 I'm a beginner Java user.
+- 👑 Actually learning with Alura.
+- 📫 How to reach me: LinkedIN / EMAIL.
+
 <img width="300" alt="toji" src="https://github.com/user-attachments/assets/5800529c-6f52-4deb-8f60-34cd1516b4b0" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6b0324&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" />
